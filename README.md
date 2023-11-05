@@ -7,3 +7,6 @@ Compared in terms of throuput,packet delivery ratio (PDR), Packet drop count, En
 
 # MAC Protocols
 A MAC protocol decides when competing nodes could access the shared medium and tries to ensure that no collisions occur while nodes transmission
+Current MAC protocols design for wireless sensor network can be broadly divided into schedule-based and contention-based protocol.
+Schedule-based MAC protocols include TDMA, FDMA and CDMA.
+Contention-based MAC protocols include IEEE 802.11(CSMA/CA), S-MAC, T-MAC are categorized into contention-based MAC protocols.
