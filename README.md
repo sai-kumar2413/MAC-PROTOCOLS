@@ -36,6 +36,11 @@ The number of data packets that is not successfully delivered to the destination
 
 It is the total amount of energy required to transmit and receive data.
 
+# Simulation scenario
+
+![Screenshot (39)](https://github.com/sai-kumar2413/MAC-PROTOCOLS/assets/119105780/6d7f5c6f-2c97-4c24-ab14-61c9030a8fdc)
+
+
 # Results
 
 1. Throughput v/s No.of nodes
