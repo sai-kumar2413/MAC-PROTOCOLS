@@ -32,7 +32,7 @@ The ratio of the number of data packets delivered to the destination nodes and t
 
 The number of data packets that is not successfully delivered to the destination during transmission.
 
-4.Total Energy Consumption :
+4. Total Energy Consumption :
 
 It is the total amount of energy required to transmit and receive data.
 
@@ -40,4 +40,15 @@ It is the total amount of energy required to transmit and receive data.
 
 1. Throughput v/s No.of nodes
    
-![Uploading Throghput.png…]()
+![Throghput](https://github.com/sai-kumar2413/MAC-PROTOCOLS/assets/119105780/24edccea-7f4b-45b3-aced-ee98dbb0341d)
+
+2. PDR v/s No.of nodes
+
+
+
+3. Packet drop count
+
+
+
+4. Energy Consuption
+
