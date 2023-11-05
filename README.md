@@ -28,9 +28,14 @@ It measures how well the network can constantly provide data to the destination.
 
 The ratio of the number of data packets delivered to the destination nodes and the number of data packets sent by source nodes. The performance would be better when it is high. 
 
-4. Number of Packets dropped 
+3. Number of Packets dropped 
 
 The number of data packets that is not successfully delivered to the destination during transmission.
 
 4.Total Energy Consumption :
-It is the total amount of energy required to transmit and receive data
+
+It is the total amount of energy required to transmit and receive data.
+
+# Results
+
+1. Throughput v/s No.of nodes
