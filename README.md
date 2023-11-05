@@ -39,3 +39,5 @@ It is the total amount of energy required to transmit and receive data.
 # Results
 
 1. Throughput v/s No.of nodes
+   
+![Uploading Throghput.png…]()
