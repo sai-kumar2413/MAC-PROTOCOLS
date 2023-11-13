@@ -49,11 +49,14 @@ It is the total amount of energy required to transmit and receive data.
 
 2. PDR v/s No.of nodes
 
+![pdr](https://github.com/sai-kumar2413/MAC-PROTOCOLS/assets/119105780/f847fc00-9cac-42ba-aa83-758b966a59ce)
 
 
 3. Packet drop count
 
+![drop_count](https://github.com/sai-kumar2413/MAC-PROTOCOLS/assets/119105780/24100a43-d20c-47ec-b440-c951414bddcb)
 
 
 4. Energy Consuption
 
+![energy_consumption](https://github.com/sai-kumar2413/MAC-PROTOCOLS/assets/119105780/a7db84a7-57f3-44e6-ab80-d7110842bcb4)
