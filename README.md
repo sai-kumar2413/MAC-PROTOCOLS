@@ -60,3 +60,7 @@ It is the total amount of energy required to transmit and receive data.
 4. Energy Consuption
 
 ![energy_consumption](https://github.com/sai-kumar2413/MAC-PROTOCOLS/assets/119105780/a7db84a7-57f3-44e6-ab80-d7110842bcb4)
+
+
+### NOTE :
+Graphs are plotted using MS excel 
